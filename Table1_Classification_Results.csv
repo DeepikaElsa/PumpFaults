@@ -1,0 +1,10 @@
+Fault Type,Precision,Recall,F1-Score,Support
+Bearing Fault,1.0000,1.0000,1.0000,3
+Bent Shaft,0.2000,0.3333,0.2500,3
+Cavitation,0.0000,0.0000,0.0000,4
+Flow Pulsation,1.0000,0.7500,0.8571,4
+Impeller Imbalance,1.0000,1.0000,1.0000,4
+Recirculation,0.3333,0.3333,0.3333,3
+Rotor Unbalance,0.4000,0.5000,0.4444,4
+Shaft Misalignment,1.0000,1.0000,1.0000,4
+Overall (Weighted Avg),0.6276,0.6207,0.6192,29
