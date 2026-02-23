@@ -106,8 +106,8 @@ Among the three models tested, ANN led with 91% accuracy, followed by ANFIS at 7
 
 | | |
 |:---:|:---:|
-| ![Plot 1](all.png) | ![Plot 2](anfis_confusion_matrix_improved/2.png) |
-| ![Plot 3](images/3.png) | ![Plot 4](images/4.png) |
+| ![Plot 1](all.png) | ![Plot 2](ANN_confusion_matrix.png) |
+| ![Plot 3](anfis_confusion_matrix_improved.png) | ![Plot 4](confusion_matrix.png) |
 
 </div>
 
