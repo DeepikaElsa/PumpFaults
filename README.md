@@ -86,7 +86,7 @@ Three classifiers were trained and evaluated on the synthetic dataset. Results a
 
 | Model | Accuracy | Notes |
 |---|---|---|
-| 🥇 **ANN** | **91.00%** ✅ | Best overall performance |
+| 🥇 **ANN** | **90.79%** ✅ | Best overall performance |
 | 🥈 **ANFIS** | **72.41%** ⚠️ | Moderate accuracy, high interpretability |
 | 🥉 **Fuzzy Logic** | **62.07%** ❌ | Rule-based, limited scalability |
 
